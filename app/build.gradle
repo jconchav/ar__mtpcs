@@ -63,3 +63,8 @@ sceneform.asset('sampledata/matapaColor.obj',
         'default',
         'sampledata/matapaColor.sfa',
         'src/main/assets/matapaColor')
+
+sceneform.asset('sampledata/matapaColor2.obj',
+        'default',
+        'sampledata/matapaColor2.sfa',
+        'src/main/assets/matapaColor2')

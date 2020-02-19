@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         arFragment.setOnTapArPlaneListener(((hitResult, plane, motionEvent) -> {
             Anchor anchor = hitResult.createAnchor();
             ModelRenderable.builder()
-                    .setSource(this, Uri.parse("matapaColor.sfb"))
+                    .setSource(this, Uri.parse("matapaColor2.sfb"))
                     .build()
                     .thenAccept(modelRenderable -> addModelToScene(anchor, modelRenderable))
                     .exceptionally(throwable -> {
