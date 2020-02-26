@@ -1,4 +1,4 @@
-# ar__mtpcs
+# Negro Matapacos en Realidad Aumentada
 Despliega un modelo 3D del Negro Matapacos utilizando realidad aumentada con tu dispositivo Android.
 
 ## Requerimientos
